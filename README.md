@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Alexis Jimenez-Piedrahita Juan</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Alexis Jimenez-Piedrahita Juan</b><img src="https://media.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif?cid=ecf05e47n5kryig40zryd5q6csfadmxyd9wx3fmmi7hch340&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="75"></h1>
 
 
 <!--
@@ -15,3 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWw1Yndnb2N0emYxMDh0dnpndm1hdnc4N245NWJhdzFzdmZpdDc0YiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1EL4RLxT3BnBnicJiX/giphy.gif" width="50px">&nbsp;***About me***
+
+I am an undergraduate Computer science information technology at university of seville.<br>Now studying cross-platform application development at Cesur.
+* **I am interested in Backend,Data analyst and IA**
+- 🌱 I’m currently learning ...
+  - Java
+  - React js
+  - Python
+  - Cobol
+- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+- Outside tech, 📖 I love to read novels, 🎵 listen to music, and 🌴 explore nature outdoors.
